@@ -53,6 +53,7 @@
       background: white;
       padding: 30px 30px 55px 30px;
       clear: both;
+      box-sizing: border-box;
       box-shadow: 1px 3px 1px #bebebd
     }
     .clear {
